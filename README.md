@@ -1,6 +1,6 @@
 # MiUnlockTool
 This is Unofficial Mi Unlock Tool by Sanchit kay5h. This tool helps you to unlock bootloader of xiaomi devices. I made this tool because in some cases xiaomi doesn't provide verification code.
-This tool it executable so you don't need to install python or other file. This tool manage all files by it-self.
+This tool is executable so you don't need to install python or other file. This tool manage all files by it-self.
 steps to unlock bootloader:- 
 *you need to successfully bind up xiaomi account in mi unlock status.
 *turn your device in fastboot mode.
